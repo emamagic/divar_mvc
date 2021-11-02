@@ -1,0 +1,4 @@
+php -S localhost:8000 -t project
+
+******* "project" is your project folder name, write it in terminal and hold terminal open *******
+******* php -S localhost:8000 -t public ******* 
